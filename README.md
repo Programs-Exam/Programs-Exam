@@ -1,2 +1,2 @@
-# Programs-Exam
+# Programs ЕГЭ
 Программы решения задач ЕГЭ
