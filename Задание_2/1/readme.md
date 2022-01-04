@@ -1,1 +1,0 @@
-![task](E:\python_work\Programs-Exam\Задание_2\1\№1.png)
